@@ -15,3 +15,5 @@ OCR (optical character recognition) system for Braille Trainer
 [github.com/zuevval/braille](https://github.com/zuevval/braille) <br>
 [github.com/zuevval/braille3](https://github.com/zuevval/braille3) <br>
 [github.com/zuevval/braille3parts](https://github.com/zuevval/braille3parts) <br>
+
+См. наши [вики-статьи](wiki/)
