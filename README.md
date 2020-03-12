@@ -1,4 +1,9 @@
-# braille4
+# braille4 (DEPRECATED)
+
+Репозиторий переехал [сюда](https://github.com/braille-systems/learn-braille).
+
+Repo has been moved [here](https://github.com/braille-systems/learn-braille).
+
 OCR (optical character recognition) system for Braille Trainer
 ## Описание
 Тренажёр Брайля для обучения незрячих чтению рельефным шрифтом задуман как комплекс из четырёх компонент:
