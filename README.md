@@ -1,4 +1,5 @@
-# braille4 (DEPRECATED)
+#  This repository is ARCHIVED and moved [HERE](https://github.com/braille-systems/learn-braille)
+## braille4 (DEPRECATED)
 
 Репозиторий переехал [сюда](https://github.com/braille-systems/learn-braille).
 
